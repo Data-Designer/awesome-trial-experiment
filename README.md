@@ -1,1 +1,1 @@
-# 🚀 Awesome-Trial_Experiment
+# 🚀 Awesome-Trial-Experiment

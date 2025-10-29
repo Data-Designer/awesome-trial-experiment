@@ -17,8 +17,8 @@
 [[25.8]Optimization of Clinical Trial Strategies for Anti-HER2 Drugs Based on Bayesian Optimization and Deep Learning](https://dl.acm.org/doi/10.1145/3724979.3725006)
 
 ## 2024📅
-[[24.7]Clinical Trial Retrieval via Multi-grained Similarity Learning](https://dl.acm.org/doi/10.1145/3626772.3661366)
-
 [[24.6]TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://dl.acm.org/doi/10.1145/3674838)
+
+[[24.7]Clinical Trial Retrieval via Multi-grained Similarity Learning](https://dl.acm.org/doi/10.1145/3626772.3661366)
 
 [[24.12]TrialDura: Hierarchical Attention Transformer for Interpretable Clinical Trial Duration Prediction](https://dl.acm.org/doi/10.1145/3698587.3701434)

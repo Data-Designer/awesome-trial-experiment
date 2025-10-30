@@ -29,6 +29,8 @@
 
 [[24.1]Panacea: A foundation model for clinical trial search, summarization, design, and recruitment](https://openreview.net/forum?id=LQmwKTWaeJ)
 
+[[24.1]Constructing a finer-grained representation of clinical trial results from ClinicalTrials.gov](https://www.nature.com/articles/s41597-023-02869-7)
+
 [[24.6]TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://dl.acm.org/doi/10.1145/3674838)
 
 [[24.6]TrialBench: Multi-Modal Artificial Intelligence-Ready Clinical Trial Datasets](https://arxiv.org/abs/2407.00631)

@@ -33,5 +33,5 @@
 
 [[24.12]TrialDura: Hierarchical Attention Transformer for Interpretable Clinical Trial Duration Prediction](https://dl.acm.org/doi/10.1145/3698587.3701434)
 
-##2023📅
+## 2023📅
 [[23.10]ClinicalRisk: A New Therapy-related Clinical Trial Dataset for Predicting Trial Status and Failure Reasons](https://dl.acm.org/doi/10.1145/3583780.3615113)

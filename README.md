@@ -16,7 +16,7 @@
 
 [[25.6]Predicting clinical trial duration via statistical and machine learning models](https://www.sciencedirect.com/science/article/pii/S245186542500047X)
 
-[[25.7]Artificial intelligence agent in clinical trial operations: a fictional (for now) case study]（https://link.springer.com/article/10.1007/s43681-025-00798-2）
+[[25.7]Artificial intelligence agent in clinical trial operations: a fictional (for now) case study](https://link.springer.com/article/10.1007/s43681-025-00798-2)
 
 [[25.8]CLaDMoP: Learning Transferrable Models from Successful Clinical Trials via LLMs](https://dl.acm.org/doi/10.1145/3711896.3736879)
 

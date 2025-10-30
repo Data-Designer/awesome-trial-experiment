@@ -8,7 +8,13 @@
 
 [[25.3]MedTransTab: Advancing Medical Cross-Table Tabular Data Generation](https://dl.acm.org/doi/abs/10.1145/3701551.3703501)
 
+[[25.3]Distribution-based sub-population selection (DSPS): A method for in-silico reproduction of clinical trials outcomes](https://www.sciencedirect.com/science/article/abs/pii/S0010482525000642?via%3Dihub)
+
+[[25.5]Benchmarking Multiple Large Language Models for Automated Clinical Trial Data Extraction in Aging Research](https://www.mdpi.com/1999-4893/18/5/296)
+
 [[25.5]A Deep Subgrouping Framework for Precision Drug Repurposing via Emulating Clinical Trials on Real-world Patient Data](https://dl.acm.org/doi/10.1145/3690624.3709418)
+
+[[25.7]Artificial intelligence agent in clinical trial operations: a fictional (for now) case study]（https://link.springer.com/article/10.1007/s43681-025-00798-2）
 
 [[25.8]CLaDMoP: Learning Transferrable Models from Successful Clinical Trials via LLMs](https://dl.acm.org/doi/10.1145/3711896.3736879)
 
@@ -19,6 +25,13 @@
 ## 2024📅
 [[24.6]TWIN-GPT: Digital Twins for Clinical Trials via Large Language Model](https://dl.acm.org/doi/10.1145/3674838)
 
+[[24.6]TrialBench: Multi-Modal Artificial Intelligence-Ready Clinical Trial Datasets](https://arxiv.org/abs/2407.00631)
+
+[[24.6]Automatically Labeling Clinical Trial Outcomes: A Large-Scale Benchmark for Drug Development](https://chufangao.github.io/CTOD/)
+
 [[24.7]Clinical Trial Retrieval via Multi-grained Similarity Learning](https://dl.acm.org/doi/10.1145/3626772.3661366)
 
 [[24.12]TrialDura: Hierarchical Attention Transformer for Interpretable Clinical Trial Duration Prediction](https://dl.acm.org/doi/10.1145/3698587.3701434)
+
+##2023📅
+[[23.10]ClinicalRisk: A New Therapy-related Clinical Trial Dataset for Predicting Trial Status and Failure Reasons](https://dl.acm.org/doi/10.1145/3583780.3615113)

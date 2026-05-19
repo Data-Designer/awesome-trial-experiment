@@ -1,5 +1,5 @@
 # 💊 Awesome- Clinical-Trial
-*💡List of recent developments of advanced AI approaches for clinical trial design.*  
+*💡List of recent developments of advanced AI approaches for clinical trial matching.*  
 
 *🫶This is my learning record regarding the field of combining clinical trials with AI technology.*    
 

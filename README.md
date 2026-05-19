@@ -4,12 +4,7 @@
 *🫶This is my learning record regarding the field of combining clinical trials with AI technology.*    
 
 ## 2026🆕
-[[26.3]TrialMatchAI: an end-to-end AI-powered clinical trial recommendation system to streamline patient-to-trial matching](https://www.nature.com/articles/s41467-026-70509-w_reference.pdf)
-[[26.1]Accelerating Clinical Trial Recruitment Through Automated Eligibility Screening with Multi-Modal Deep Learning](https://ciajournal.com/index.php/jcia/article/download/58/53)
-
-[[26.1]Clinical Trial Patient Matching: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Semiautomated Patient Prescreening in Cancer Clinical Trials](https://ascopubs.org/doi/abs/10.1200/CCI-25-00262)
-
-[[26.1]Case-based reasoning for clinical trial recruitment tools in oncology: When you need patients to find patients](https://www.sciencedirect.com/science/article/pii/S109830152400069X/pdfft?md5=632f621aebe73f56ae53abf516c33d42&pid=1-s2.0-S109830152400069X-main.pdf)
+### 1. Pipeline and agent system based on LLMs
 
 [[26.2]EC2Seq2Sql: Patient-trial matching with LLM agents](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0341827&type=printable)
 
@@ -21,9 +16,26 @@
 
 [[26.3]Patient Records Interpretation with Clinical Trial Matching Using LLMs](https://ieeexplore.ieee.org/abstract/document/11483918)
 
-[[26.4]Enhancing Clinical Trial Participant Selection with Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-032-19336-0_16)
+[[26.3]TrialMatchAI: an end-to-end AI-powered clinical trial recommendation system to streamline patient-to-trial matching](https://www.nature.com/articles/s41467-026-70509-w_reference.pdf)
 
 [[26.4]Translating evidence into practice: adapting TrialGPT for real-world clinical trial eligibility screening](https://academic.oup.com/jamia/article-pdf/33/4/909/66753042/ocag006.pdf)
+
+
+### 2. NLP and Deep Learning based pipeline
+
+[[26.1]Accelerating Clinical Trial Recruitment Through Automated Eligibility Screening with Multi-Modal Deep Learning](https://ciajournal.com/index.php/jcia/article/download/58/53)
+
+[[26.1]Clinical Trial Patient Matching: A Real-Time, Common Data Model and Artificial Intelligence–Driven System for Semiautomated Patient Prescreening in Cancer Clinical Trials](https://ascopubs.org/doi/abs/10.1200/CCI-25-00262)
+
+[[26.1]Case-based reasoning for clinical trial recruitment tools in oncology: When you need patients to find patients](https://www.sciencedirect.com/science/article/pii/S109830152400069X/pdfft?md5=632f621aebe73f56ae53abf516c33d42&pid=1-s2.0-S109830152400069X-main.pdf)
+
+
+### 3. Review and benchmarks
+
+[[26.4]Enhancing Clinical Trial Participant Selection with Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-032-19336-0_16)
+
+
+### 4. Tools
 
 [[26.4]Scalable High-Recall Constraint-Satisfaction-Based Information Retrieval for Clinical Trials Matching](https://arxiv.org/pdf/2604.08849)
 

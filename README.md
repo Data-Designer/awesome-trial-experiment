@@ -3,6 +3,10 @@
 
 *🫶This is my learning record regarding the field of combining clinical trials with AI technology.*    
 
+## 2026🆕
+[[26.3]TrialMatchAI: an end-to-end AI-powered clinical trial recommendation system to streamline patient-to-trial matching](https://www.nature.com/articles/s41467-026-70509-w_reference.pdf)
+
+
 ## 2025📅
 [[25.2]Optimal Stopping for Clinical Trials with Economic Costs: A Simulation-Based Approach](https://dl.acm.org/doi/10.5555/3712729.3713000)
 

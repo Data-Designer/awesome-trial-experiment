@@ -4,11 +4,16 @@
 *🫶This is my learning record regarding the field of combining clinical trials with AI technology.*    
 
 ## 2026🆕
+
 ### 1. Pipeline and agent system based on LLMs
 
 [[26.2]EC2Seq2Sql: Patient-trial matching with LLM agents](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0341827&type=printable)
 
 [[26.2]Enhancing Clinical Trial Selection for Cancer Patients Using Large Language Models](https://journals.sagepub.com/doi/full/10.1177/11769351251399641)
+
+[[26.2]Human-AI teaming to improve accuracy and efficiency of eligibility criteria prescreening for oncology trials: a randomized evaluation trial using retrospective electronic health records](https://www.nature.com/articles/s41467-026-68873-8)
+
+[[26.2]AI-Driven Patient Screening for Clinical Trials in Pancreatic Cancer: The PANCR-AI Pilot Retrospective Comparative Study](https://cancer.jmir.org/2026/1/e80268)
 
 [[26.3]Artificial intelligence (AI)–assisted eligibility screening for prostate cancer clinical trial matching](https://ascopubs.org/doi/pdf/10.1200/JCO.2026.44.7_suppl.405)
 
@@ -19,6 +24,12 @@
 [[26.3]TrialMatchAI: an end-to-end AI-powered clinical trial recommendation system to streamline patient-to-trial matching](https://www.nature.com/articles/s41467-026-70509-w_reference.pdf)
 
 [[26.4]Translating evidence into practice: adapting TrialGPT for real-world clinical trial eligibility screening](https://academic.oup.com/jamia/article-pdf/33/4/909/66753042/ocag006.pdf)
+
+[[26.4]Enhancing Clinical Trial Patient Matching through Knowledge Augmentation and Reasoning with Multi-Agents](https://arxiv.org/pdf/2411.14637)
+
+[[26.4]Lightweight Retrieval-Augmented Generation and Large Language Model-Based Modeling for Scalable Patient-Trial Matching](https://arxiv.org/pdf/2604.22061)
+
+[[26.4]Leveraging Predictive AI and LLM-Powered Trial Matching to Improve Clinical Trial Recruitment: A Usability Assessment of Trialshub](https://www.medrxiv.org/content/10.64898/2026.04.17.26351107v1.full)
 
 
 ### 2. NLP and Deep Learning based pipeline
@@ -32,14 +43,26 @@
 
 ### 3. Review and benchmarks
 
+[[26.1]A unified framework for pre-screening and screening tools in oncology clinical trials](https://www.nature.com/articles/s41698-026-01306-3)
+
+[[26.3]AI for clinical trials in oncology](https://www.esmorwd.org/article/S2949-8201%2825%2900547-8/fulltext)
+
+[[26.3]The Matchmaker's Dilemma: A Survey of Retrieval, Ranking, and LLM Systems in Clinical Trial Matching](https://preprints.jmir.org/preprint/96024)
+
 [[26.4]Enhancing Clinical Trial Participant Selection with Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-032-19336-0_16)
+
+[[26.5]Large Language Models in Clinical Trial Recruitment: Sociotechnical and Economic Framework Development Study](https://ai.jmir.org/2026/1/e95899)
 
 
 ### 4. Tools
 
+[[26.3]Matching clinicians with clinical trials using AI](https://www.nature.com/articles/s44360-026-00073-6)
+
 [[26.4]Scalable High-Recall Constraint-Satisfaction-Based Information Retrieval for Clinical Trials Matching](https://arxiv.org/pdf/2604.08849)
 
 [[26.5]A Natural Language Processing Framework for Structuring and Visualizing Clinical Trial Eligibility Criteria at Scale: Protocol for a Quantitative Study](https://www.researchprotocols.org/2026/1/e86425/PDF)
+
+[[26.5]Key Coverage Matters: Semi-Structured Extraction of OCR Clinical Reports](https://arxiv.org/pdf/2605.09440)
 
 
 ## 2025📅
